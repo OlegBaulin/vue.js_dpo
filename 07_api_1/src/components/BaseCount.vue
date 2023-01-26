@@ -6,7 +6,7 @@
       </svg>
     </button>
 
-    <input type="text" v-model.number="currentAmount" @input="$emit('update:amount', $event.target.value)">
+    <input type="text" v-model.number="currentAmount" @input="$emit('update:amount', +$event.target.value)">
 
     <button type="button" aria-label="Добавить один товар" @click="increaseProduct">
       <svg width="12" height="12" fill="currentColor">
