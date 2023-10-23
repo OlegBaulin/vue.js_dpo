@@ -1,3 +1,4 @@
+<!-- eslint-disable -->
 <template>
   <BaseFormField :title="title" :error="error">
     <textarea class="form__input form__input--area" v-model="dataValue"

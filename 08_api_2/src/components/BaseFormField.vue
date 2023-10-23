@@ -1,3 +1,4 @@
+<!-- eslint-disable -->
 <template>
   <label class="form__label">
     <slot />

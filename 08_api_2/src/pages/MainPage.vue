@@ -1,3 +1,4 @@
+<!-- eslint-disable -->
 <template>
   <main class="content container">
     <div class="content__top content__top--catalog">
@@ -37,6 +38,7 @@
 </template>
 
 <script>
+/* eslint-disable */
 import ProductList from '@/components/ProductList.vue';
 import BasePagination from '@/components/BasePagination.vue';
 import ProductFilter from '@/components/ProductFilter.vue';

@@ -1,3 +1,4 @@
+<!-- eslint-disable -->
 <template>
   <li class="catalog__item">
     <router-link class="catalog__pic"

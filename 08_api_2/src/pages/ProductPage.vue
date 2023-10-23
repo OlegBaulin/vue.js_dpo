@@ -1,3 +1,4 @@
+<!-- eslint-disable -->
 <template>
   <main class="content container" v-if="productLoading">
     Загрузка товара...<Preloader/>

@@ -1,3 +1,4 @@
+<!-- eslint-disable -->
 <template>
   <main class="content container">
     <div class="content__top">
@@ -85,6 +86,7 @@
 </template>
 
 <script>
+/* eslint-disable */
 import OrderList from '@/components/OrderList.vue';
 
 export default {

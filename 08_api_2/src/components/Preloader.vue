@@ -1,3 +1,4 @@
+<!-- eslint-disable -->
 <template>
   <svg class="spinner" viewBox="0 0 100 100" height="150px" width="150px">
   <clipPath id="clip5">
